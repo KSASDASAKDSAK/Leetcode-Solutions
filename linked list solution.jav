@@ -10,7 +10,7 @@ public class LinkedListCycle {
             val = x;
             next = null;
         }
-    }
+    }sxzsafsasfafasffsaafs
     
 
     public boolean hasCycle(ListNode head) {
