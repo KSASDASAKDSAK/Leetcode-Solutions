@@ -31,7 +31,7 @@ public class LinkedListCycle {
             if (fastNode!=null){
                 fastNode = fastNode.next;
             }
-        }
+        }fsdds
         
         return false;
     }
